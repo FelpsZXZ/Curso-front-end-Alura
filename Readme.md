@@ -1,5 +1,7 @@
 # Olá, Bem vindo ao meu projeto de portfólio.
 
+![image](https://curso-front-end-alura.vercel.app)
+
 ## Ferramentas utilizadas:
 
 * HTML
